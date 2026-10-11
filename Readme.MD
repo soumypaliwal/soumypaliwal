@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working in **Siemens Healthineers as a Senior Software Engineer**
 
-- 🌱 I’m currently learning **GO Lang**
+- 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **C# dotnet SQL Angular and Kubernetes**
 
